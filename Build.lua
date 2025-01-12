@@ -4,11 +4,6 @@ workspace "Template Workspace"
     configurations { "Debug", "Release", "Dist" }
     startproject "App"
 
-    solution_items
-	{
-		".editorconfig"
-	}
-
     flags
     {
         "MultiProcessorCompile"
