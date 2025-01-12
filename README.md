@@ -17,10 +17,10 @@ Jokes aside, this template uses a core and app architecture. Core builds as a st
 
 ## Included
 - Sample code
-- '.gitignore' for Visual Studio. You can add your ide/platform specific excludes
-- '.editorconfig' which currently uses a unix style
+- `.gitignore` for Visual Studio. You can add your ide/platform specific excludes
+- `.editorconfig` which currently uses a unix style
 - Hopefully working sample code
 
 ## License
-- UNLICENSE for this (see 'UNLICENSE.txt')
-- Premake is licensed under the BSD 3-Clause License (see 'LICENSE.txt')
+- UNLICENSE for this (see `UNLICENSE.txt`)
+- Premake is licensed under the BSD 3-Clause License (see `LICENSE.txt`)
