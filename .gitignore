@@ -1,14 +1,21 @@
 # Directories
 .vs/
+.idea/
 bin/
 
-# Files
+# Files (windows)
 *.vcxproj
 *.vcxproj.user
 *.vcxproj.filters
 *.sln
 *.log
 Makefile
+
+# Files (mac, not sure if these are even needed or if more should be added)
+*.xcassets
+.DS_Store
+.AppleDouble
+.LSOverride
 
 # Exclude
 !vendor/bin
